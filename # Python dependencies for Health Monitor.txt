@@ -1,0 +1,22 @@
+# Python dependencies for Health Monitoring Agent
+# Install with: pip install -r requirements.txt
+
+# Web framework (optional for future backend)
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# For production server (optional)
+waitress>=2.1.0
+gunicorn>=20.1.0
+
+# For data processing (optional)
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# For configuration (optional)
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Note: Basic server.py works with standard library only
+# These are optional for enhanced features
