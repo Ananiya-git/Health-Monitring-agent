@@ -22,10 +22,3 @@ An AI-powered web application for health monitoring with personalized recommenda
 
 ## 🚀 Quick Start
 
-### Option 1: Simple Start (No Python)
-1. Download the project files
-2. Open `index.html` in your web browser
-3. Start using the application!
-
-### Option 2: With Local Server
-```bash
